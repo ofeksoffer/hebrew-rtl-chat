@@ -1,0 +1,12 @@
+{
+  "name": "hebrew-rtl-chat",
+  "description": "Right-to-left Hebrew and Arabic replies in Claude Code chat",
+  "owner": { "name": "Ofek Soffer" },
+  "plugins": [
+    {
+      "name": "hebrew-rtl-chat",
+      "source": "./plugins/hebrew-rtl-chat",
+      "description": "Hebrew lines that start with an English word display right-to-left. Display-only, zero context."
+    }
+  ]
+}

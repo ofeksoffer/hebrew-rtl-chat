@@ -1,0 +1,17 @@
+{
+  "name": "hebrew-rtl-chat",
+  "version": "1.0.0",
+  "description": "Hebrew lines that start with an English word display right-to-left. Display-only, zero context.",
+  "author": {
+    "name": "Ofek Soffer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hebrew",
+    "arabic",
+    "rtl",
+    "bidi"
+  ],
+  "homepage": "https://github.com/ofeksoffer/hebrew-rtl-chat",
+  "repository": "https://github.com/ofeksoffer/hebrew-rtl-chat"
+}
